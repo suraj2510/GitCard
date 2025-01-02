@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import  { useState, useEffect } from "react";
 import { Github, MapPin, Users, Book } from "lucide-react";
 
 function App() {
